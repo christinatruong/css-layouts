@@ -12,3 +12,5 @@ Topics include:
 * How Grid differs from Flexbox
 * Creating a basic Grid layout
 * Positioning with Grid
+
+Find me on [Twitter](http://twitter.com/christinatruong) or [Instagram](http://instagram.com/christina.is.online)!
