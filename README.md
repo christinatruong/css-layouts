@@ -20,5 +20,6 @@ Topics include:
 --
 
 Find me on [Bluesky](https://bsky.app/profile/decodedbychristina.bsky.social) or [Instagram](http://instagram.com/christinaisonline)!
+Get some CSS merch at [madeby.christinatruong.com](https://madeby.christinatruong.com)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O2NRM6)
