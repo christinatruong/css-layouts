@@ -1,7 +1,6 @@
 # CSS Layouts: From Float to Flexbox and Grid
 
-Exercise files for **CSS Layouts: From Float to Flexbox and Grid** on [Lynda.com](https://www.lynda.com/Christina-Truong/7842227-1.html) and [LinkedIn Learning](https://www.linkedin.com/learning/instructors/christina-truong?u=2125562).
-
+Exercise files for the [LinkedIn Learning](https://www.linkedin.com/learning/instructors/christina-truong?u=2125562) course, **CSS Layouts: From Float to Flexbox and Grid**. 
 (These files are also hosted on [Bitbucket](https://bitbucket.org/christinacodes/).)
 
 ### Course Description
@@ -20,6 +19,6 @@ Topics include:
 
 --
 
-Find me on [Twitter](http://twitter.com/christinatruong) or [Instagram](http://instagram.com/christina.is.online)!
+Find me on [Bluesky](https://bsky.app/profile/decodedbychristina.bsky.social) or [Instagram](http://instagram.com/christinaisonline)!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O2NRM6)
