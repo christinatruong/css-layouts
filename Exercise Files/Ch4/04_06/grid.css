@@ -1,0 +1,54 @@
+/* 
+Latest border-box fix info:
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model#the_alternative_css_box_model
+*/
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* Add padding to all child elements */
+.container > * {
+  padding: 20px;
+}
+.container {
+  font-family: Avenir, Arial, sans-serif;
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+}
+
+header {
+  background: deepskyblue;
+  grid-column: 1 / 13;
+}
+
+nav {
+  background: lightskyblue;
+  grid-column: 1 / 4;
+}
+nav a {
+  display: block;
+  color: black;
+}
+
+main {
+  background: dodgerblue;
+  grid-column: 4 / 10;
+}
+
+aside {
+  background: royalblue;
+  grid-column: 10 / 13;
+}
+
+footer {
+  background: steelblue;
+  grid-column: 1 / 13;
+}
