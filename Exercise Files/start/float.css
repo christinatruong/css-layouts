@@ -1,0 +1,44 @@
+/* 
+Keyword colors can be found at http://colours.neilorangepeel.com/
+*/
+
+/* border-box fix */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+h1, h2 {
+  text-transform: uppercase;
+}
+
+/* Add padding to all of the .container child elements */
+.container > * {
+  padding: 20px;
+}
+.container {
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+}
+
+header {
+  background: skyblue;
+}
+main {
+  background: slategray;
+}
+nav {
+  background: cadetblue;
+}
+aside {
+  background: seagreen;
+}
+footer {
+  background: darkslateblue;
+}

@@ -1,0 +1,73 @@
+/*
+Keyword colors can be found at http://colours.neilorangepeel.com/
+*/
+
+/* border-box fix */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+h1, h2 {
+  text-transform: uppercase;
+}
+
+/* Add padding to all of the .container child elements */
+.container > * {
+  padding: 20px;
+}
+.container {
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+}
+
+header {
+  background: skyblue;
+}
+main {
+  background: slategray;
+}
+nav {
+  background: cadetblue;
+}
+aside {
+  background: seagreen;
+}
+footer {
+  background: darkslateblue;
+}
+
+@media (min-width: 600px){
+  nav {
+    width: 25%;
+    float: left;
+  }
+  main {
+    width: 75%;
+    float: left;
+  }
+  aside {
+    clear: both;
+  }
+}
+@media (min-width: 850px){
+  main {
+    width: 50%;
+  }
+  aside {
+    width: 25%;
+    clear: none;
+    float: right;
+  }
+  footer {
+    clear: both;
+  }
+}
