@@ -1,6 +1,6 @@
 # CSS Layouts: From Float to Flexbox and Grid
 
-Exercise files for the [LinkedIn Learning](https://www.linkedin.com/learning/instructors/christina-truong?u=2125562) course, **CSS Layouts: From Float to Flexbox and Grid**. 
+Exercise files for the [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/) course, **CSS Layouts: From Float to Flexbox and Grid**. 
 
 ### Course Description
 
